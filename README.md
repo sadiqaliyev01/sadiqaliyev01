@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Restaurant mobile application<br>🌱 I’m currently learning Flutter<br>📫 Reach me at aliyev.sdg@gmail.com<br>⚡ Fun fact - Football
+🔭 I’m currently working on Automobile Service Application<br>🌱 I’m currently working as Flutter Developer<br>📫 Reach me at aliyev.sdg@gmail.com<br>⚡ Fun fact - Football
 
 
 ## 🌐 Socials:
